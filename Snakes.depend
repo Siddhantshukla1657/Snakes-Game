@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1728141666 source:c:\users\siddhant\downloads\snakes\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<unistd.h>
+
+1728149131 source:c:\users\siddhant\downloads\snakes\snakes new.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<unistd.h>
+
+1729069282 source:c:\users\siddhant\downloads\snakes\sankes 2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<unistd.h>
+
